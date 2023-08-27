@@ -16,7 +16,7 @@
 
  💬 Ask me about **C/C++, React, Machine Learning, OpenGL... or anything [here](https://github.com/gabrielduo/gabrielduo/issues)**
 
- 🧙🏻‍♂️ Fun fact **In Skyrim, the College of Winterhold holds daily lectures on magic in the Hall of Elements<br />from around 2:00 pm to 3:00 pm**
+ 🧙🏻‍♂️ Fun fact **In Skyrim, the College of Winterhold holds daily lectures on magic in the Hall of Elements from around 2:00 pm to 3:00 pm**
  
  </div>
  
@@ -45,11 +45,11 @@
 <h2 align="center">⚡ Stats</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=gabrielduo&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://streak-stats.demolab.com?user=gabrielduo&theme=radical&background=4078C0&currStreakNum=EBEBEB&dates=EBEBEB&ring=EBEBEB&stroke=EBEBEB&currStreakLabel=EBEBEB&excludeDaysLabel=EBEBEB&sideLabels=EBEBEB&sideNums=EBEBEB&fire=EB760B"/>
   <br/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=gabrielduo&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=gabrielduo&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&bg_color=4078c0&border_color=fff&title_color=fff&icon_color=fff" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielduo&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielduo&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&bg_color=4078c0&border_color=fff&title_color=fff&icon_color=fff" alt="top langs" />
 </div>
 
 <br/><br/>
