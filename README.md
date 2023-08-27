@@ -29,16 +29,31 @@
   </a>
 </div>
 
- <hr/>
- 
-<h2 align="center">👨🏻‍💻 Languages, Frameworks and Tools</h2>
 <br/>
+<hr/>
+
 <div align="center">
-    <img alt="languages, frameworks and tools" src="https://skillicons.dev/icons?i=arduino,autocad,bash,blender,bootstrap,c,cpp,css,figma,git,github,html,java,js,latex,linux,matlab,netlify,octave,ps,postgres,postman,py,react,vscode,&perline=5"/>
+  <h2>🐍 My Contributions</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gabrielduo/garielduo/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
 </div>
 
 <hr/>
 
+<h2 align="center">⚡ Stats</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=gabrielduo&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <br/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=gabrielduo&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielduo&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+<hr/>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&color=4078c0&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌🏼;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
