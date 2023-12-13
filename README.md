@@ -12,9 +12,9 @@
  
  🎓 I’m currently working on **Final Graduation Project**
  
- 🌱 I’m currently learning **Backend with Kotlin and Java, Cybersecurity and Data Visualization**
+ 🌱 I’m currently learning **Cybersecurity and Data Visualization**
 
- 💬 Ask me about **C/C++, React, Machine Learning, OpenGL... or anything [here](https://github.com/gabrielduo/gabrielduo/issues)**
+ 💬 Ask me about **C/C++, Machine Learning, OpenGL... or anything [here](https://github.com/gabrielduo/gabrielduo/issues)**
 
  🧙🏻‍♂️ Fun fact **In Skyrim, the College of Winterhold holds daily lectures on magic in the Hall of Elements from around 2:00 pm to 3:00 pm**
  
