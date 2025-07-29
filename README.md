@@ -10,8 +10,6 @@
 
 <div align="center">
  
- 🎓 I’m currently working on **Final Graduation Project**
- 
  🌱 I’m currently learning **Cybersecurity and Data Visualization**
 
  💬 Ask me about **C/C++, Machine Learning, OpenGL... or anything [here](https://github.com/gabrielduo/gabrielduo/issues)**
